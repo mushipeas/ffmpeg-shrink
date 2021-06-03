@@ -16,7 +16,7 @@ Run the script:
 
     docker run -v /ABSOLUTE/PATH/TO/WORKDIR:/workdir --rm ffmpeg-shrink /workdir/INPUT_FILE FILESIZE_IN_MB
 
-Where `/ABSOLUTE/PATH/TO/WORKDIR`, `INPUT_FILE` and `FILESIZE_IN_MB` need to be modified per your useage.
+Where `/ABSOLUTE/PATH/TO/WORKDIR`, `INPUT_FILE` and `FILESIZE_IN_MB` need to be modified per your usage.
 
 ### Example
 
